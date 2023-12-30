@@ -15,7 +15,7 @@
 <br/>
 <p align="left">
   <a href="https://www.torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Pasindu-Manodara&show_icons=true&include_all_commits=false&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Pasindu-Manodara&show_icons=false&include_all_commits=false&theme=radical&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pasindu-Manodara&theme=radical&hide_border=true">		  
   </a>
 </p>
