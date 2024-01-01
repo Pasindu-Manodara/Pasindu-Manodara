@@ -14,7 +14,7 @@
 
 <br/>
 <p align="left">
-  <a href="https://www.torrinleonard.com/">
+  <a >
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Pasindu-Manodara&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=282828&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pasindu-Manodara&theme=gruvbox&bg_color=003366&hide_border=true">		  
   </a>
